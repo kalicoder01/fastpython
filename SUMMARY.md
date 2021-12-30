@@ -10,3 +10,5 @@
 ## Основы Python <a href="#basics" id="basics"></a>
 
 * [Переменные. Типы данных](basics/peremennye.-tipy-dannykh.md)
+* [Ввод данных. Пишем калькулятор сложения.](basics/vvod-dannykh.-pishem-kalkulyator-slozheniya..md)
+* [Ветвления. Пишем полноценный калькулятор.](basics/vetvleniya.-pishem-polnocennyi-kalkulyator..md)
