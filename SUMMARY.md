@@ -12,3 +12,8 @@
 * [Переменные. Типы данных](basics/peremennye.-tipy-dannykh.md)
 * [Ввод данных. Пишем калькулятор сложения.](basics/vvod-dannykh.-pishem-kalkulyator-slozheniya..md)
 * [Ветвления. Пишем полноценный калькулятор.](basics/vetvleniya.-pishem-polnocennyi-kalkulyator..md)
+
+***
+
+* [Ветвления. Подробнее о ветвлениях. Применение else и elif](vetvleniya.-podrobnee-o-vetvleniyakh.-primenenie-else-i-elif.md)
+* [Библиотеки в Python](biblioteki-v-python.md)
